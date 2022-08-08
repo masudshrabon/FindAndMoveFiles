@@ -1,0 +1,12 @@
+compressionFilters.CompressionFilter
+compressionFilters.CompressionResponseStream
+jakarta.el.BeanELResolver
+jakarta.el.ELProcessor
+jakarta.el.ImportHandler
+jakarta.el.TestArrayELResolver
+jakarta.el.TestBeanELResolver
+jakarta.el.TestBeanNameELResolver
+jakarta.el.TestListELResolver
+jakarta.el.TestMapELResolver
+jakarta.el.TestResourceBundleELResolver
+jakarta.el.TestStaticFieldELResolver
