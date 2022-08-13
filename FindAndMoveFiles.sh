@@ -25,7 +25,7 @@ do
 	javaExtension=".java"
 	className=$className$javaExtension 	# append the extension .java
 	 
-	sleep 0.5	# 0.5 sec sleep
+	#sleep 0.5	# 0.5 sec sleep
 	
 	# find the class from the sourceCodeFolder and move it into the outputFolder
 	find ${sourceCodeFolder} -name $className -exec mv "{}" ${outputFolder} \;
